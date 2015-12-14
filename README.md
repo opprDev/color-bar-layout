@@ -1,2 +1,1 @@
-# color-bar-layout
-Color Bar Layout Template
+# Color Bar Layout Template
